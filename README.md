@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-latte!
-- 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning C# (Unity2D).
-- 💞️ I’m looking to collaborate on video games! I make my own graphics and music too!
+- 👀 I’m interested mainly in game development. So much fun!
+- 🌱 Currently working on Unity games.
+- 💞️ I like making my own music and graphics too!
 - 📫 How to reach me: @k-latte
 
 <!---
